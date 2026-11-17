@@ -1,4 +1,3 @@
-# utvecklingsgrunder
 # Utvecklingsgrunder
 
 ## Vad jag har lärt mig
@@ -43,11 +42,20 @@ Exempel:
 
 HTML bygger upp innehållet på en webbsida. CSS bestämmer hur sidan ser ut.
 
-HTML-exempel:
+Exempel på en hel HTML-sida:
 
 ```html
-<h1>Min första webbsida</h1>
-<p>Jag lär mig HTML!</p>
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Min första webbsida - version 2</title>
+</head>
+<body>
+    <h1>Hej världen!</h1>
+    <p>Det här är min första webbsida.</p>
+</body>
+</html>
 ```
 
 CSS-exempel:
@@ -77,4 +85,4 @@ Några användbara funktioner:
 
 ## Sammanfattning
 
-Under kursveckan har jag lärt mig grunderna i Git, GitHub, Markdown, HTML, CSS och VS Code. Jag har också tränat på att spara ändringar och publicera dem på GitHub.
+Under kursveckan har jag arbetat med Git, GitHub och HTML samt gått igenom Markdown, CSS och VS Code. Jag har också tränat på att spara ändringar och publicera dem på GitHub.
