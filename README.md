@@ -42,7 +42,7 @@ Exempel:
 
 HTML bygger upp innehållet på en webbsida. CSS bestämmer hur sidan ser ut.
 
-Exempel på en hel HTML-sida:
+HTML-exempel:
 
 ```html
 <!DOCTYPE html>
@@ -62,8 +62,8 @@ CSS-exempel:
 
 ```css
 h1 {
-  color: blue;
-  text-align: center;
+    color: blue;
+    text-align: center;
 }
 ```
 
