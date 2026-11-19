@@ -41,7 +41,8 @@ Exempel:
 ## 3. HTML och CSS
 
 HTML bygger upp innehållet på en webbsida. CSS bestämmer hur sidan ser ut.
-
+HTML strukturer information
+CSS ändrar stilen på den inbyggda stilen.
 HTML-exempel:
 
 ```html
