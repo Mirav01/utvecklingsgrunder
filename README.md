@@ -11,11 +11,11 @@ Git används för att spara och följa ändringar i projekt. GitHub används fö
 Exempel på vanliga kommandon:
 
 ```bash
-git status
-git add .
+git status "Kontrollerar ändringar"
+git add "Förbereder ändringr"
 git commit -m "Sparar ändringar"
-git push origin main
-git fetch origin
+git push origin main "Skickar ändringar till GitHub"
+git fetch origin "Kontrollerar om det finns nya ändringar på GitHub"
 ```
 
 **Tips:** Använd `git status` för att kontrollera läget innan du gör ändringar.
