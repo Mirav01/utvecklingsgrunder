@@ -7,7 +7,7 @@ Den här sidan sammanfattar mina viktigaste lärdomar under kursveckan. Exemplen
 ## 1. Git och GitHub
 
 Git används för att spara och följa ändringar i projekt. GitHub används för att lagra projekt online.
-
+Med hjälp av Git kan man gå tillbaka till gamla versioner om man skulle behöva det, vilket man inte kan göra utan Git. 
 Exempel på vanliga kommandon:
 
 ```bash
